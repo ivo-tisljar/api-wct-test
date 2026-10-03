@@ -8,7 +8,7 @@ return [
         'host'     => 'localhost',
         'port'     => 3306,
         'dbname'   => 'rrifhr_wct_test',
-        'user'     => 'viewer',
+        'user'     => 'rrifhr_pp_viewer',
         'password' => '4E2029E6D6DB8F81C049CB5319BB46F303A8126FDE0224BCB58A2C74E1424FEF',      // password of the read-only 'viewer'@'localhost' user
         'charset'  => 'utf8mb4',
     ],
